@@ -1,6 +1,6 @@
 body {
   font-family: 'Josefin Sans';
-  background-color: #FFFAFB;
+  background-color: #dfb5bd;
 }
 
 * {
@@ -23,7 +23,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #FF2625;
+  color: #ed1010;
   font-size: 25px;
   border-radius: 4px;
   position: absolute;
